@@ -1,3 +1,3 @@
-thislist = ["apple", "banana", "cherry"]
+thislist = ["apple", "banana", "cherry" , "strawberry"]
 for x in thislist:
-  print(x)
+    print(x)
